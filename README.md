@@ -12,3 +12,6 @@ Hà Xuân Hương|10CTIN-A|haxuanhuong70023040@gmail.com
 
 Chức năng|Người thực hiện|Ngày hoàn thành dự kiến
 -|-|-
+Danh sách học sinh|Hương-Huy|30/04/23
+Phân tích số lượng học sinh|Hương-Huy|30/04/23
+Phân tích điểm thi|Hương-Huy|30/04/23
