@@ -5,7 +5,7 @@ Họ Tên|Lớp|Email
 Hà Xuân Hương|10CTIN-A|haxuanhuong70023040@gmail.com
 
 # Thông tin project
-## Đề tài: Phân tích điểm thi lớp Python4AI 092022
+## Đề tài: Phân tích điểm thi giữa kì lớp MCAI 
 ## Các thư viện sử dụng: `numpy, matplotlib, scikit-learn, plotly`
 
 ## Các chức năng chính & kế hoạch thực hiện
